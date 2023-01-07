@@ -5,7 +5,7 @@
 
 /* Header Style */
 header {
-  background-image: url(/images/banner/banner1.png);
+  background-image: url(images/banner/banner1.png);
   width: 1600px;
   height: 808px;
 }
@@ -111,7 +111,7 @@ ul {
   width: 1140px;
   height: 300px;
   margin: 120px auto;
-  background-image: url(/images/watch.png),
+  background-image: url(images/watch.png),
     linear-gradient(to right, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
   border-radius: 8px;
   background-blend-mode: overlay;
